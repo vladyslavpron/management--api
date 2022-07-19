@@ -9,6 +9,7 @@ Patch /api/users/userId {id:newBossId} to change userId's boss to newBossId, can
 
 # demo
 
+https://management--api.herokuapp.com/  
 admin id 1 email@example.com:1234  
 regular user id 2 email1@example.com:1234  
 boss id 3 email1@example.com:1234
